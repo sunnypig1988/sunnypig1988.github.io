@@ -2,22 +2,22 @@
 #
 
 # Site settings
-title: Spectral
+title: Jiehuan Sun
 description: |
-  Another fine responsive  
-  site template freebie  
-  crafted by [HTML5 UP](http://html5up.net)
-owner: Your Name # or company name
+  Biostatistics  
+  Computational Biology  
+owner: Jiehuan Sun # or company name
 first_published: 2016 # if migrating another site, the year of your first publish
-email: your-email@domain.com
+email: jiehuan.sun@yale.edu
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://jiehuansun.com" # the base hostname & protocol for your site
 social:
-  twitter: https://twitter.com/<username>
-  github: https://github.com/<username>
+  #twitter: https://twitter.com/<username>
+  github: https://github.com/sunnypig1988
   linkedin-square: https://linkedin.com/in/<username>
-  facebook-official: https://facebook.com/<username>
-  google-plus-square: https://plus.google.com/u/0/+<username>
+  facebook-official: https://facebook.com/sun.jiehuan
+  google-scholar: https://scholar.google.com/citations?user=wX1K4ogAAAAJ&hl=en
+  #google-plus-square: https://plus.google.com/u/0/+<username>
   #email: /contact/
   #flickr:
   #instagram:
