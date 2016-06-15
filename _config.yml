@@ -4,8 +4,9 @@
 # Site settings
 title: Jiehuan Sun
 description: |
-  Biostatistics  
-  Computational Biology  
+  Biostatistics
+  Computational Biology
+  Bioinformatics
 owner: Jiehuan Sun # or company name
 first_published: 2016 # if migrating another site, the year of your first publish
 email: jiehuan.sun@yale.edu
@@ -18,7 +19,7 @@ social:
   facebook-official: https://facebook.com/sun.jiehuan
   google-scholar: https://scholar.google.com/citations?user=wX1K4ogAAAAJ&hl=en
   #google-plus-square: https://plus.google.com/u/0/+<username>
-  #email: /contact/
+  email: /contact/jiehuan.sun@yale.edu
   #flickr:
   #instagram:
   #youtube-square:

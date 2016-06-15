@@ -7,8 +7,13 @@
     <li><a target="_blank" href="{{ socloc[1] }}" class="icon fa-envelope-o"
            ><span class="label">E-mail</span></a></li>
     {% else %}
+    {% if socloc[0] == 'google-scholar' %}
+    <li><a target="_blank" href="{{ socloc[1] }}" class="ai ai-google-scholar-square ai-3x"
+           ><span class="label">{{ socloc[0] }}</span></a></li>
+    {% else %}
     <li><a target="_blank" href="{{ socloc[1] }}" class="icon fa-{{ socloc[0] }}"
            ><span class="label">{{ socloc[0] }}</span></a></li>
+    {% endif %}
     {% endif %}
     {% endif %}
     {% endfor %}
