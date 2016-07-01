@@ -8,3 +8,11 @@
 <script src="{{ "/js/main.js" | prepend: site.baseurl }}"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
 <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+<script src="{{ "/js/jquery.tipsy.js" | prepend: site.baseurl }}"></script>
+<script type="text/javascript">
+$(function() {
+	$('#test1').tipsy({gravity: 's', fade: true, offset: 40});
+	$('#test2').tipsy({gravity: 's', fade: true, offset: 40});
+	$('#test3').tipsy({gravity: 's', fade: true, offset: 40});
+});
+</script>

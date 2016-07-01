@@ -10,23 +10,32 @@ layout: landing
 								<li><a href="#" class="button special">Curriculum Vitae</a></li>
 							</ul>
 						</div>
-						<a href="#one" class="more scrolly">More About Me</a>
+						<a href="#one" class="more scrolly">Know Me More</a>
 					</section>
 
 				<!-- One -->
 					<section id="one" class="wrapper style1 special">
 						<div class="inner">
 							<header class="major">
-								<h2>Personal Information</h2>
-								<p>I am a 5th-year PhD student at <a href="https://publichealth.yale.edu/biostat/">Yale Biostatistics Department</a>. <br />
-								My advisor is <a href="http://zhaocenter.org">Dr. Hongyu Zhao</a>. <br />
-								My research interests lie in applying longitudinal data analysis and Bayes theory <br />
-								in high dimensional biological data analysis. </p>
+								<h3>Personal Information</h3>
+								<p>I am a 5th-year PhD student at <a href="https://publichealth.yale.edu/biostat/">Yale Biostatistics Department</a>.
+								My advisor is <a href="http://zhaocenter.org">Dr. Hongyu Zhao</a>.
+								My research lies in applying longitudinal data analysis
+								in the Bayesian framework to high dimensional gene expression data. </p>
+								<h4>Education</h4>
+								<br />
+								<p align="center">2012-2017 Ph.D. in Biostatistics, Yale University <br />
+								2010-2012 ScM. in Biostatistics, Johns Hopkins University <br />
+								2006-2010 B.E. in Bioinformatics, Huazhong University of Science and Technology</p>
+								<h4>Selected Honors and Awards</h4>
+								<br />
+								<p> 2015 HHMI international student research fellowship - Finalist (Yale)<br />
+								2011 Kocherlakota Award from department (JHU)</p>
 							</header>
 							<ul class="icons major">
-								<li><span class="icon fa-diamond major style1"><span class="label">Lorem</span></span></li>
-								<li><span class="icon fa-heart-o major style2"><span class="label">Ipsum</span></span></li>
-								<li><span class="icon fa-code major style3"><span class="label">Dolor</span></span></li>
+								<li><a id="test1" href="#two" title='Research'><span class="icon fa-diamond major style1"></span></a></li>
+								<li><a id="test2" href="#" title='Interest'><span class="icon fa-heart-o major style2"></span></a></li>
+								<li><a id="test3" href="#" title='Links'><span class="icon fa-code major style3"></span></a></li>
 							</ul>
 						</div>
 					</section>
@@ -34,21 +43,24 @@ layout: landing
 				<!-- Two -->
 					<section id="two" class="wrapper alt style2">
 						<section class="spotlight">
-							<div class="image"><img src="images/pic01.jpg" alt="" /></div><div class="content">
+							<div class="image"><img src="images/pic01.jpg" alt="" /></div>
+							<div class="content">
 								<h2>Magna primis lobortis<br />
 								sed ullamcorper</h2>
 								<p>Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.</p>
 							</div>
 						</section>
 						<section class="spotlight">
-							<div class="image"><img src="images/pic02.jpg" alt="" /></div><div class="content">
+							<div class="image"><img src="images/pic02.jpg" alt="" /></div>
+							<div class="content">
 								<h2>Tortor dolore feugiat<br />
 								elementum magna</h2>
 								<p>Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.</p>
 							</div>
 						</section>
 						<section class="spotlight">
-							<div class="image"><img src="images/pic03.jpg" alt="" /></div><div class="content">
+							<div class="image"><img src="images/pic03.jpg" alt="" /></div>
+							<div class="content">
 								<h2>Augue eleifend aliquet<br />
 								sed condimentum</h2>
 								<p>Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.</p>
@@ -60,34 +72,22 @@ layout: landing
 					<section id="three" class="wrapper style3 special">
 						<div class="inner">
 							<header class="major">
-								<h2>Accumsan mus tortor nunc aliquet</h2>
+								<h2>Publication and Software</h2>
 								<p>Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend<br />
 								fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.</p>
 							</header>
 							<ul class="features">
-								<li class="icon fa-paper-plane-o">
-									<h3>Arcu accumsan</h3>
-									<p>Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat.</p>
-								</li>
 								<li class="icon fa-laptop">
-									<h3>Ac Augue Eget</h3>
-									<p>Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat.</p>
-								</li>
-								<li class="icon fa-code">
-									<h3>Mus Scelerisque</h3>
-									<p>Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat.</p>
-								</li>
-								<li class="icon fa-headphones">
-									<h3>Mauris Imperdiet</h3>
-									<p>Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat.</p>
+									<h3><a href="https://cran.r-project.org/web/packages/SQDA/index.html">sQDA</a></h3>
+									<p>R package to perform Sparse Quadratic Discriminant Analysis (SQDA) with the assumption of block-diagonal and sparse covariance matrix. SQDA is useful in classification of high-dimensional gene expression data, with the consideration of the genetic network rewiring in subclasses. </p>
 								</li>
 								<li class="icon fa-heart-o">
-									<h3>Aenean Primis</h3>
-									<p>Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat.</p>
+									<h3><a href="https://www.bioconductor.org/packages/release/bioc/html/dcGSA.html">dcGSA</a></h3>
+									<p>Bioconductor package to perform distance-correlation based Gene Set Analysis (dcGSA) for longitudinal gene expression profiles. The dcGSA package is useful to assess the associations between gene sets and outcomes, considering both expression profiles and clinical outcomes' longitudinal nature.</p>
 								</li>
 								<li class="icon fa-flag-o">
-									<h3>Tortor Ut</h3>
-									<p>Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat.</p>
+									<h3><a href="http://genocanyon.med.yale.edu">GENOCANYON</a></h3>
+									<p>Whole-genome functional annotation approach based on unsupervised statistical learning. It integrates genomic conservation measures and biochemical annotation data to predict the functional potential at each nucleotide.</p>
 								</li>
 							</ul>
 						</div>
@@ -97,12 +97,13 @@ layout: landing
 					<section id="cta" class="wrapper style4">
 						<div class="inner">
 							<header>
-								<h2>Arcue ut vel commodo</h2>
-								<p>Aliquam ut ex ut augue consectetur interdum endrerit imperdiet amet eleifend fringilla.</p>
+								<h2>Contact me</h2>
+								<p>Address: 60 College Street, New Haven CT 06520 <br />
+								Email: jiehuan DOT sun AT yale DOT edu</p>
 							</header>
 							<ul class="actions vertical">
-								<li><a href="#" class="button fit special">Activate</a></li>
-								<li><a href="#" class="button fit">Learn More</a></li>
+								<li><a href="#" class="button fit special"> My Interests</a></li>
+								<li><a href="#" class="button fit">More Links</a></li>
 							</ul>
 						</div>
 					</section>
