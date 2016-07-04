@@ -36,7 +36,7 @@ layout: landing
 			Kocherlakota Award from department (JHU 2011)</p>
 		</header>
 		<ul class="icons major">
-			<li><a id="test1" href="#twoplus" title='Research Spotlight'><span class="icon fa-diamond major style1"></span></a></li>
+			<li><a id="test1" href="#three" title='Research Spotlight'><span class="icon fa-diamond major style1"></span></a></li>
 			<li><a id="test2" href="/interest.html" title='Interest'><span class="icon fa-heart-o major style2"></span></a></li>
 			<li><a id="test3" href="/Links.html" title='Links'><span class="icon fa-code major style3"></span></a></li>
 		</ul>
@@ -46,7 +46,7 @@ layout: landing
 
 
 <!-- Two -->
-<section id="twoplus" class="wrapper style2 special">
+<!-- <section id="twoplus" class="wrapper style2 special">
 	<div class="inner">
 		<header class="major">
 			<h2 align="center"><i>Resesarch Spotlight</i></h2>
@@ -77,7 +77,7 @@ layout: landing
         <p>By modeling the expression trajectory over time in a linear mixed-effects framework and clustering based on the regression coefficients, BClustLonG accounts for the gene-gene correlation and tackles the high dimensionality challenge in a unique and innovative way. <br /><br /><i>The left table demonstrates the performance of BClustLonG under different simulation scenarios. </i></p>
       </div>
     </section>
-  </section>
+  </section> -->
 
 <!-- Three -->
   <section id="three" class="wrapper style3 special">
@@ -106,10 +106,10 @@ layout: landing
           <h3>dcGSA</h3>
           <p>R package to perform distance-correlation based Gene Set Analysis (dcGSA) for longitudinal gene expression profiles. The dcGSA package is useful to assess the associations between gene sets and outcomes, considering both expression profiles and clinical outcomes' longitudinal nature.[<a target="_blank" href="https://www.bioconductor.org/packages/release/bioc/html/dcGSA.html"><b>Bioconductor</b></a>]</p>
         </li>
-        <li class="icon fa-flag-o">
+        <!-- <li class="icon fa-flag-o">
           <h3>GENOCANYON</h3>
           <p>Whole-genome functional annotation approach based on unsupervised statistical learning. It integrates genomic conservation measures and biochemical annotation data to predict the functional potential at each nucleotide. [<a target="_blank" href="http://genocanyon.med.yale.edu"><b>Website</b></a>]</p>
-        </li>
+        </li> -->
       </ul>
 
     </div>
