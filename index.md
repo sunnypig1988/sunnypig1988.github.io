@@ -36,7 +36,7 @@ layout: landing
 			Kocherlakota Award from department (JHU 2011)</p>
 		</header>
 		<ul class="icons major">
-			<li><a id="test1" href="#two" title='Research Spotlight'><span class="icon fa-diamond major style1"></span></a></li>
+			<li><a id="test1" href="#twoplus" title='Research Spotlight'><span class="icon fa-diamond major style1"></span></a></li>
 			<li><a id="test2" href="/interest.html" title='Interest'><span class="icon fa-heart-o major style2"></span></a></li>
 			<li><a id="test3" href="/Links.html" title='Links'><span class="icon fa-code major style3"></span></a></li>
 		</ul>
@@ -46,26 +46,35 @@ layout: landing
 
 
 <!-- Two -->
+<section id="twoplus" class="wrapper style2 special">
+	<div class="inner">
+		<header class="major">
+			<h2 align="center"><i>Resesarch Spotlight</i></h2>
+			<p> </p>
+		</header>
+	</div>
+</section>
+
   <section id="two" class="wrapper alt style2">
     <section class="spotlight">
       <div class="image"><img src="images/pic01.jpg" alt="" /></div>
       <div class="content">
         <h2>Classification of high-dimensional gene expression data</h2>
-        <p>By assuming the covariance matrix to be block-diagonal and sparse, Sparse Quadratic Discriminant Analysis (SQDA) considers the genetic network rewiring sample classification of high-dimensional gene expression profiles. The left figure decribes the general workflow of SQDA based on a toy example of classifications of tumor and normal samples.</p>
+        <p>By assuming the covariance matrix to be block-diagonal and sparse, Sparse Quadratic Discriminant Analysis (SQDA) considers the genetic network rewiring sample classification of high-dimensional gene expression profiles. <br /><br /><i>The left figure decribes the general workflow of SQDA based on a toy example of classifications of tumor and normal samples.</i></p>
       </div>
     </section>
     <section class="spotlight">
       <div class="image"><img src="images/pic02.jpg" alt="" /></div>
       <div class="content">
         <h2>Gene set analysis on longitudinal expression profiles</h2>
-        <p>Distance-correlation based Gene Set Analysis (dcGSA) is proposed to assess the associations between gene sets and outcomes with the consideration of both expression profiles and clinical outcomes' longitudinal nature. The right figure shows the ROC curves comparing four gene set analysis methods under different simulation scenarios.</p>
+        <p>Distance-correlation based Gene Set Analysis (dcGSA) is proposed to assess the associations between gene sets and outcomes with the consideration of both expression profiles and clinical outcomes' longitudinal nature. <br /><br /><i>The right figure shows the ROC curves comparing four gene set analysis methods under different simulation scenarios.</i></p>
       </div>
     </section>
     <section class="spotlight">
       <div class="image"><img src="images/pic03.jpg" alt="" /></div>
       <div class="content">
         <h2>Subtype Identification on longitudinal expression profiles</h2>
-        <p>By modeling the expression trajectory over time in a linear mixed-effects framework and clustering based on the regression coefficients, BClustLonG accounts for the gene-gene correlation and tackles the high dimensionality challenge in a unique and innovative way. The left table demonstrates the performance of BClustLonG under different scenarios. </p>
+        <p>By modeling the expression trajectory over time in a linear mixed-effects framework and clustering based on the regression coefficients, BClustLonG accounts for the gene-gene correlation and tackles the high dimensionality challenge in a unique and innovative way. <br /><br /><i>The left table demonstrates the performance of BClustLonG under different simulation scenarios. </i></p>
       </div>
     </section>
   </section>
@@ -107,7 +116,7 @@ layout: landing
   </section>
 
 
-<section id="four" class="wrapper style5 special">
+<section id="four" class="wrapper style1 special">
   <div class="inner">
 	<header class="major">
 		<h2>Conferences</h2>
