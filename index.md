@@ -9,15 +9,12 @@ layout: landing
 	<div class="inner">
 		<h2>{{ site.title }}</h2>
 		<p>{{ site.description | markdownify }}</p>
-		<ul class="actions">
-			<li><a target="_blank" href="/assets/Jiehuan-cv-updated.pdf" class="button special">Curriculum Vitae</a></li>
-		</ul>
 	</div>
 	<a href="#one" class="more scrolly">Know Me More</a>
 </section>
 
 <!-- One -->
-<section id="one" class="wrapper style1 special">
+<section id="one" class="wrapper style2 special">
 	<div class="inner">
 		<header class="major">
 			<h3>Personal Information</h3>
@@ -35,11 +32,11 @@ layout: landing
 			<p> HHMI international student research fellowship - University Nominee (Yale 2015)<br />
 			Kocherlakota Award from department (JHU 2011)</p>
 		</header>
-		<ul class="icons major">
+		<!-- <ul class="icons major">
 			<li><a id="test1" href="#three" title='Research Spotlight'><span class="icon fa-diamond major style1"></span></a></li>
 			<li><a id="test2" href="/interest.html" title='Interest'><span class="icon fa-heart-o major style2"></span></a></li>
 			<li><a id="test3" href="/Links.html" title='Links'><span class="icon fa-code major style3"></span></a></li>
-		</ul>
+		</ul> -->
 	</div>
 </section>
 
@@ -80,15 +77,16 @@ layout: landing
   </section> -->
 
 <!-- Three -->
-  <section id="three" class="wrapper style3 special">
+  <section id="three" class="wrapper style2 special">
     <div class="inner">
       <header class="major">
         <h2>Publication and Software</h2>
         <ol align="left" reversed="true">
 
-<li> <b>Jiehuan Sun</b>, Jose D. Herazo-Maya†, Xiu Huang, Naftali Kaminski, and Hongyu Zhao. "Distance-correlation based gene set analysis in longitudinal studies". <i>Manuscript</i>. <br /><br /></li>
+<li> <b>Jiehuan Sun</b>, Jose D. Herazo-Maya, Xiu Huang, Naftali Kaminski, and Hongyu Zhao. "Distance-correlation based gene set analysis in longitudinal studies". <i>Manuscript</i>. <br /><br /></li>
 <li> <b>Jiehuan Sun</b>, Jose D. Herazo-Maya, Naftali Kaminski, Hongyu Zhao, and Joshua L. Warren. "A dirichlet process mixture model for clustering longitudinal gene expression data". <i>Manuscript</i>. <br /><br /></li>
-<li> <b>Jiehuan Sun</b>, Joshua L. Warren, and Hongyu Zhao. "A Bayesian semiparametric factor analysis model for subtype identificatio". <i>Manuscript</i>. <br /><br /></li>
+<li> <b>Jiehuan Sun</b>, Joshua L. Warren, and Hongyu Zhao. "A Bayesian semiparametric factor analysis model for subtype identification". <i>Manuscript</i>. <br /><br /></li>
+<li> Qiongshi Lu, Chentian Jin, <b>Jiehuan Sun</b>, Russell Bowler, Katerina Kechris, Naftali Kaminski, and Hongyu Zhao. "Post-GWAS Prioritization Through Data Integration Provides Novel Insights on Chronic Obstructive Pulmonary Disease." <i>Statistics in Biosciences</i> (2016): 1-17. [<a target="_blank" href="http://link.springer.com/article/10.1007/s12561-016-9151-2">Link</a>]<br /><br /></li>
 <li> Qiongshi Lu, Yiming Hu, <b>Jiehuan Sun</b>, Yuwei Cheng, Kei-Hoi Cheung, and Hongyu Zhao. ”A Statistical Framework to Predict Functional Non-Coding Regions in the Human Genome Through Integrated Analysis of Diverse Types of Annotation Data.” <i>Scientific reports</i> 5 (2015). [<a target="_blank" href="http://www.nature.com/articles/srep10576">Link</a>] <br /><br /></li>
 <li> <b>Jiehuan Sun</b> and Hongyu Zhao. ”The application of sparse estimation of covariance matrix to quadratic discriminant analysis.” <i>BMC bioinformatics</i> 16.1 (2015): 48. [<a target="_blank" href="http://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-014-0443-6">Link</a>]<br /><br /></li>
 <li> <b>Jiehuan Sun</b>, Xintao Hu, Xiu Huang, Yang Liu, Kaiming Li, Xiang Li, Junwei Han, Lei Guo, Tianming Liu, and Jing Zhang. ”Inferring consistent functional interaction patterns from natural stimulus FMRI data.” <i>NeuroImage</i> 61, no. 4 (2012): 987-999. [<a target="_blank" href="http://www.sciencedirect.com/science/article/pii/S1053811912002868">Link</a>]<br /><br /></li>
@@ -116,11 +114,19 @@ layout: landing
   </section>
 
 
-<section id="four" class="wrapper style1 special">
+<section id="four" class="wrapper style2 special">
   <div class="inner">
 	<header class="major">
 		<h2>Conferences</h2>
 		<br />
+		<h4>Talk</h4>
+		<ul align="left">
+		<li>"Discovery of Novel Loci Associated with COPD by Pooling Information from Related Clinical Feature and Functional Annotation" <br /> <i>ENAR Spring Meeting</i>, Mar. 6-9, 2016. </li>
+		<li>“Discovery of Novel Loci Associated with COPD by Pooling Information from Case-control status, Related Clinical Feature, and Functional Annotation” <br /><i>Statistical and Computational Challeges in Omics Data Integration workshop - SAMSI</i>, Feb. 16-17, 2015.</li>
+		<li>“Discovery of Novel Loci Associated with COPD by Pooling Information from Related Clinical Feature and Functional Annotation”<br /> <i>Bioinformatics Transition Workshop - SAMSI</i>, May 11-13, 2015.</li>
+		<li>“The application of sparse estimation of covariance matrix to quadratic discriminant analysis”<br /> <i>The 29th New England Statistics Symposium</i>, April 24-25, 2015.</li>
+
+		</ul>
 		<h4>Poster and Workshop</h4>
 		<ul align="left">
 		<li><i>The 29th New England Statistics Symposium</i>, April 24-25, 2015. </li>
@@ -129,13 +135,6 @@ layout: landing
 		<li><i>2014 Rutgers Statistics Symposium Statistics and the Century of Data</i>, May 2, 2014.</li>
 		<li><i>Statistical Methods for Very Large Datasets Conference</i>, June 1-3, 2011.</li>
 		<li><i>The 9th China-Japan-Korea Bioinformatics Training Course and Bioinformatics Symposium</i>, April 20-23, 2010. </li>
-		</ul>
-		<h4>Talk</h4>
-		<ul align="left">
-		<li>"Discovery of Novel Loci Associated with COPD by Pooling Information from Related Clinical Feature and Functional Annotation" <br /> <i>ENAR Spring Meeting</i>, Mar. 6-9, 2016. </li>
-		<li>“Discovery of Novel Loci Associated with COPD by Pooling Information from Case-control status, Related Clinical Feature, and Functional Annotation” <br /><i>Statistical and Computational Challeges in Omics Data Integration workshop - SAMSI</i>, Feb. 16-17, 2015.</li>
-		<li>“Discovery of Novel Loci Associated with COPD by Pooling Information from Related Clinical Feature and Functional Annotation”<br /> <i>Bioinformatics Transition Workshop - SAMSI</i>, May 11-13, 2015.</li>
-		<li>“The application of sparse estimation of covariance matrix to quadratic discriminant analysis”<br /> <i>The 29th New England Statistics Symposium</i>, April 24-25, 2015.</li>
 
 		</ul>
 	</header>
@@ -151,13 +150,12 @@ layout: landing
 	<div class="inner">
 
 		<header>
-			<h2>Contact me</h2>
+			<h2>Contact</h2>
 			<p>Address: 60 College Street, New Haven CT 06520 <br />
 			Email: jiehuan DOT sun AT yale DOT edu</p>
 		</header>
-		<ul class="actions vertical">
-			<li><a href="/interest.html" class="button fit special"> My Interests</a></li>
-			<li><a href="/Links.html" class="button fit">More Links</a></li>
+		<ul class="actions">
+			<li><a target="_blank" href="/assets/Jiehuan-cv-updated.pdf" class="button special">Curriculum Vitae</a></li>
 		</ul>
 	</div>
 </section>
