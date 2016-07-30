@@ -49,11 +49,11 @@ title: Interest
 
 <div class="box alt">
   <div class="row uniform 50%">
-    <div class="3u"><span class="image fit" id="test8" title='Math'><img src="images/mis_calc.JPG" alt="" /></span></div>
+    <div class="3u"><span class="image fit" id="test8" title='Math'><img src="images/mis_calc.jpg" alt="" /></span></div>
     <br><br>
     <div class="3u"><span class="image fit" id="test9" title='Hiking'><img src="images/mis_hiking.JPG" alt="" /></span></div>
     <br><br>
-    <div class="3u"><span class="image fit" id="test10" title='Basketball'><img src="images/mis_NBA.JPG" alt="" /></span></div>
+    <div class="3u"><span class="image fit" id="test10" title='Basketball'><img src="images/mis_NBA.jpg" alt="" /></span></div>
     <br><br>
     <!-- <div class="3u"><span class="image fit" id="test11" title='Game'><img src="images/mis_game.png" alt="" /></span></div> -->
   </div>
