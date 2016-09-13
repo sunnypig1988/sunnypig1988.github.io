@@ -24,13 +24,13 @@ layout: landing
 			in the Bayesian framework to high dimensional gene expression data. </p>
 			<h4>Education</h4>
 			<br />
-			<p align="center">2012-2017 Ph.D. in Biostatistics, Yale University <br />
-			2010-2012 ScM. in Biostatistics, Johns Hopkins University <br />
-			2006-2010 B.E. in Bioinformatics, Huazhong University of Science and Technology</p>
+			<p align="center">2012-2017 Ph.D. in Biostatistics, Yale University (Yale)<br />
+			2010-2012 ScM. in Biostatistics, Johns Hopkins University (JHU) <br />
+			2006-2010 B.E. in Bioinformatics, Huazhong University of Science and Technology (HUST)</p>
 			<h4>Selected Honors and Awards</h4>
 			<br />
-			<p> HHMI international student research fellowship - University Nominee (Yale 2015)<br />
-			Kocherlakota Award from department (JHU 2011)</p>
+			<p> HHMI international student research fellowship - University Nominee (Top 10, Yale 2015)<br />
+			Kocherlakota Award from department (Top 1, JHU 2011)</p>
 		</header>
 		<!-- <ul class="icons major">
 			<li><a id="test1" href="#three" title='Research Spotlight'><span class="icon fa-diamond major style1"></span></a></li>
