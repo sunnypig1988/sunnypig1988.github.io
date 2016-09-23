@@ -83,7 +83,7 @@ layout: landing
         <h2>Publication and Software</h2>
         <ol align="left" reversed="true">
 
-<li> Molei Liu, <b>Jiehuan Sun</b>, Jose D. Herazo-Maya, Naftali Kaminski, and Hongyu Zhao. "Joint models for time-to-event data and longitudinal biomarkers of high dimension". <i>Submitted</i>. [<a target="_blank" href="http://arxiv.org/pdf/1609.02986v1.pdf">arXiv</a>] <br /><br /></li>
+<!-- <li> Molei Liu, <b>Jiehuan Sun</b>, Jose D. Herazo-Maya, Naftali Kaminski, and Hongyu Zhao. "Joint models for time-to-event data and longitudinal biomarkers of high dimension". <i>Submitted</i>. [<a target="_blank" href="http://arxiv.org/pdf/1609.02986v1.pdf">arXiv</a>] <br /><br /></li> -->
 <li> <b>Jiehuan Sun</b>, Jose D. Herazo-Maya, Xiu Huang, Naftali Kaminski, and Hongyu Zhao. "Distance-correlation based gene set analysis in longitudinal studies". <i>Submitted</i>. [<a target="_blank" href="http://arxiv.org/pdf/1609.02983v1.pdf">arXiv</a>] <br /><br /></li>
 <li> <b>Jiehuan Sun</b>, Jose D. Herazo-Maya, Naftali Kaminski, Hongyu Zhao, and Joshua L. Warren. "A dirichlet process mixture model for clustering longitudinal gene expression data". <i>Submitted</i>. [<a target="_blank" href="http://arxiv.org/pdf/1609.02980v1.pdf">arXiv</a>] <br /><br /></li>
 <li> <b>Jiehuan Sun</b>, Joshua L. Warren, and Hongyu Zhao. "A Bayesian semiparametric factor analysis model for subtype identification". <i>Submitted</i>. [<a target="_blank" href="http://arxiv.org/pdf/1609.02984v1.pdf">arXiv</a>] <br /><br /></li>
