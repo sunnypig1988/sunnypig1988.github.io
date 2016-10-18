@@ -129,7 +129,7 @@ layout: landing
 		<h4>Presentations</h4>
 		<ul align="left">
          <li> "A Dirichlet Process Mixture Model for Clustering Longitudinal Gene Expression Data", <i>Joint Statistical Meetings (JSM)</i>, July 30 - August 4, 2016. </li>
-		<li> <b>(Invited)</b> "Discovery of Novel Loci Associated with COPD by Pooling Information from Related Clinical Feature and Functional Annotation", <i>Eastern North American Region (ENAR) Spring Meeting</i>, March 6-9, 2016. </li>
+		<li> <strong>(Invited)</strong> "Discovery of Novel Loci Associated with COPD by Pooling Information from Related Clinical Feature and Functional Annotation", <i>Eastern North American Region (ENAR) Spring Meeting</i>, March 6-9, 2016. </li>
 		<li>“Discovery of Novel Loci Associated with COPD by Pooling Information from Related Clinical Feature and Functional Annotation”, <i>Bioinformatics Transition Workshop - SAMSI</i>, May 11-13, 2015.</li>
 		<li>“The application of sparse estimation of covariance matrix to quadratic discriminant analysis”, <i>The 29th New England Statistics Symposium</i>, April 24-25, 2015.</li>
         <li>“Discovery of Novel Loci Associated with COPD by Pooling Information from Case-control status, Related Clinical Feature, and Functional Annotation”, <i>Statistical and Computational Challeges in Omics Data Integration workshop - SAMSI</i>, February 16-17, 2015.</li>
