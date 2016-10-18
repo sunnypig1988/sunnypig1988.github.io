@@ -23,16 +23,14 @@ layout: landing
 			My research interests are to develop statistical methods for biomarker discovery, risk prediction, and subgroup identification in longitudinal genomics studies with the primary goal to better understand the disease and translate genomics data into clinical applications for improved prevention strategies, diagnostic tools, and/or treatment protocols. </p>
 			<h4>Education</h4>
 			<br />
-			<li> 2012-now Ph.D. in Biostatistics, Yale University (Expected Graduation: May 2017)  <br /><br /></li>
+			<li> 2012-present Ph.D. in Biostatistics, Yale University (Expected Graduation: May 2017)  <br /><br /></li>
 			<li> 2010-2012 ScM. in Biostatistics, Johns Hopkins Bloomberg School of Public Health  <br /><br /></li>
 			<li> 2006-2010 B.E. in Bioinformatics, Huazhong University of Science and Technology  <br /><br /></li>
 			<h4>Selected Honors and Awards</h4>
 			<br />
 			<li> Conference Travel Fellowship Award, Yale Graduate Student Assembly, 2016 <br /><br /></li>
-			<li> Top 10 candidates nominated by Yale University for HHMI International Student Research Fellow-
-ships, 2015 <br /><br /></li>
-			<li> Kocherlakota Award from the Department of Biostatistics at Johns Hopkins Bloomberg School of
-Public Health, 2011 <br /><br /></li>
+			<li> Top 10 candidates nominated by Yale University for HHMI International Student Research Fellowships, 2015 <br /><br /></li>
+			<li> Kocherlakota Award from the Department of Biostatistics at Johns Hopkins Bloomberg School of Public Health, 2011 <br /><br /></li>
 
 		</header>
 		<!-- <ul class="icons major">
@@ -123,7 +121,7 @@ Public Health, 2011 <br /><br /></li>
 	<header class="major">
 		<h2>Conferences</h2>
 		<br />
-		<h4>Talk</h4>
+		<h4>Presentations</h4>
 		<ul align="left">
 		<li>"Discovery of Novel Loci Associated with COPD by Pooling Information from Related Clinical Feature and Functional Annotation" <br /> <i>ENAR Spring Meeting</i>, Mar. 6-9, 2016. </li>
 		<li>“Discovery of Novel Loci Associated with COPD by Pooling Information from Case-control status, Related Clinical Feature, and Functional Annotation” <br /><i>Statistical and Computational Challeges in Omics Data Integration workshop - SAMSI</i>, Feb. 16-17, 2015.</li>
@@ -131,7 +129,7 @@ Public Health, 2011 <br /><br /></li>
 		<li>“The application of sparse estimation of covariance matrix to quadratic discriminant analysis”<br /> <i>The 29th New England Statistics Symposium</i>, April 24-25, 2015.</li>
 
 		</ul>
-		<h4>Poster and Workshop</h4>
+		<h4>Posters and Workshops</h4>
 		<ul align="left">
 		<li><i>The 29th New England Statistics Symposium</i>, April 24-25, 2015. </li>
 		<li><i>Bioinformatics Transition Workshop - SAMSI</i>, May 11-13, 2015. </li>
