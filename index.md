@@ -26,6 +26,7 @@ layout: landing
 			<li> 2012-present Ph.D. in Biostatistics, Yale University (Expected Graduation: May 2017) <br /></li>
 			<li> 2010-2012 ScM. in Biostatistics, Johns Hopkins Bloomberg School of Public Health  <br /></li>
 			<li> 2006-2010 B.E. in Bioinformatics, Huazhong University of Science and Technology <br /></li>
+            <br />
 			<h4>Selected Honors and Awards</h4>
 			<br />
 			<li> Conference Travel Fellowship Award, Yale Graduate Student Assembly, 2016 <br /></li>
@@ -93,7 +94,7 @@ layout: landing
 <li> <b>Jiehuan Sun</b>, Joshua L. Warren, and Hongyu Zhao. "A Bayesian semiparametric factor analysis model for subtype identification." <i>Submitted</i>.  <br /><br /></li>
 <li> Qiongshi Lu, Chentian Jin, <b>Jiehuan Sun</b>, Russell Bowler, Katerina Kechris, Naftali Kaminski, and Hongyu Zhao. "Post-GWAS Prioritization Through Data Integration Provides Novel Insights on Chronic Obstructive Pulmonary Disease." <i>Statistics in Biosciences</i>, in press. [<a target="_blank" href="http://link.springer.com/article/10.1007/s12561-016-9151-2">Link</a>]<br /><br /></li>
 <li> Qiongshi Lu, Yiming Hu, <b>Jiehuan Sun</b>, Yuwei Cheng, Kei-Hoi Cheung, and Hongyu Zhao. ”A Statistical Framework to Predict Functional Non-Coding Regions in the Human Genome Through Integrated Analysis of Diverse Types of Annotation Data.” <i>Scientific reports</i> no. 5 (2015): 10576 . [<a target="_blank" href="http://www.nature.com/articles/srep10576">Link</a>] <br /><br /></li>
-<li> <b>Jiehuan Sun</b> and Hongyu Zhao. ”The application of sparse estimation of covariance matrix to quadratic discriminant analysis.” <i>BMC bioinformatics</i> 16.1 (2015): 48. [<a target="_blank" href="http://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-014-0443-6">Link</a>]<br /><br /></li>
+<li> <b>Jiehuan Sun</b> and Hongyu Zhao. ”The application of sparse estimation of covariance matrix to quadratic discriminant analysis.” <i>BMC bioinformatics</i> 16, no. 1 (2015): 48. [<a target="_blank" href="http://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-014-0443-6">Link</a>]<br /><br /></li>
 <li> <b>Jiehuan Sun</b>, Xintao Hu, Xiu Huang, Yang Liu, Kaiming Li, Xiang Li, Junwei Han, Lei Guo, Tianming Liu, and Jing Zhang. ”Inferring consistent functional interaction patterns from natural stimulus FMRI data.” <i>NeuroImage</i> 61, no. 4 (2012): 987-999. [<a target="_blank" href="http://www.sciencedirect.com/science/article/pii/S1053811912002868">Link</a>]<br /><br /></li>
 <li> Jian Yu, Xiaobin Xing, Lingyao Zeng, <b>Jiehuan Sun</b>, Wei Li, Han Sun, Ying He Jing Li, Guoqing Zhang, Chuan Wang, Yixue Li, and Lu Xie. ”SyStem-Cell: a database populated with multiple levels of experimental data from stem cell differentiation research.” <i>PloS one</i> 7, no. 7 (2012): e35230. [<a target="_blank" href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0035230">Link</a>]<br /><br /></li>
 
@@ -107,7 +108,7 @@ layout: landing
         </li>
         <li class="icon fa-heart-o">
           <h3>dcGSA</h3>
-          <p>R package to perform distance-correlation based Gene Set Analysis (dcGSA) for longitudinal gene expression profiles. The dcGSA package is useful to assess the associations between gene sets and outcomes, considering both expression profiles and clinical outcomes' longitudinal nature.[<a target="_blank" href="https://www.bioconductor.org/packages/release/bioc/html/dcGSA.html"><b>Bioconductor</b></a>]</p>
+          <p>R package to perform distance-correlation based Gene Set Analysis (dcGSA) for longitudinal gene expression profiles. The dcGSA package is useful to assess the associations between gene sets and outcomes, considering both expression profiles and clinical outcomes' longitudinal nature. [<a target="_blank" href="https://www.bioconductor.org/packages/release/bioc/html/dcGSA.html"><b>Bioconductor</b></a>]</p>
         </li>
         <!-- <li class="icon fa-flag-o">
           <h3>GENOCANYON</h3>
@@ -126,11 +127,11 @@ layout: landing
 		<br />
 		<h4>Presentations</h4>
 		<ul align="left">
-         <li> "A Dirichlet Process Mixture Model for Clustering Longitudinal Gene Expression Data" <br /> <i>Joint Statistical Meetings (JSM)</i>, July 30 - August 4, 2016. </li>
-		<li> <b>(Invited)</b> "Discovery of Novel Loci Associated with COPD by Pooling Information from Related Clinical Feature and Functional Annotation" <br /> <i>Eastern North American Region (ENAR) Spring Meeting</i>, March 6-9, 2016. </li>
-		<li>“Discovery of Novel Loci Associated with COPD by Pooling Information from Related Clinical Feature and Functional Annotation”<br /> <i>Bioinformatics Transition Workshop - SAMSI</i>, May 11-13, 2015.</li>
-		<li>“The application of sparse estimation of covariance matrix to quadratic discriminant analysis”<br /> <i>The 29th New England Statistics Symposium</i>, April 24-25, 2015.</li>
-        <li>“Discovery of Novel Loci Associated with COPD by Pooling Information from Case-control status, Related Clinical Feature, and Functional Annotation” <br /><i>Statistical and Computational Challeges in Omics Data Integration workshop - SAMSI</i>, February 16-17, 2015.</li>
+         <li> "A Dirichlet Process Mixture Model for Clustering Longitudinal Gene Expression Data", <i>Joint Statistical Meetings (JSM)</i>, July 30 - August 4, 2016. </li>
+		<li> <b>(Invited)</b> "Discovery of Novel Loci Associated with COPD by Pooling Information from Related Clinical Feature and Functional Annotation", <i>Eastern North American Region (ENAR) Spring Meeting</i>, March 6-9, 2016. </li>
+		<li>“Discovery of Novel Loci Associated with COPD by Pooling Information from Related Clinical Feature and Functional Annotation”, <i>Bioinformatics Transition Workshop - SAMSI</i>, May 11-13, 2015.</li>
+		<li>“The application of sparse estimation of covariance matrix to quadratic discriminant analysis”, <i>The 29th New England Statistics Symposium</i>, April 24-25, 2015.</li>
+        <li>“Discovery of Novel Loci Associated with COPD by Pooling Information from Case-control status, Related Clinical Feature, and Functional Annotation”, <i>Statistical and Computational Challeges in Omics Data Integration workshop - SAMSI</i>, February 16-17, 2015.</li>
 
 		</ul>
 		<h4>Posters and Workshops</h4>
