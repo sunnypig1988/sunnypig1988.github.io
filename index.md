@@ -84,6 +84,8 @@ layout: landing
         <h2>Publication and Software</h2>
         <ol align="left" reversed="true">
 
+
+<li> tttttt <br /><br /></li>
 <li> Molei Liu, <b>Jiehuan Sun</b>, Jose D. Herazo-Maya, Naftali Kaminski, and Hongyu Zhao. "Joint models for time-to-event data and longitudinal biomarkers of high dimension". <i>Manuscript</i>.  <br /><br /></li>
 <li> <b>Jiehuan Sun</b>, Jose D. Herazo-Maya, Xiu Huang, Naftali Kaminski, and Hongyu Zhao. "Distance-correlation based gene set analysis in longitudinal studies". <i>Submitted</i>.  <br /><br /></li>
 <li> <b>Jiehuan Sun</b>, Jose D. Herazo-Maya, Naftali Kaminski, Hongyu Zhao, and Joshua L. Warren. "A dirichlet process mixture model for clustering longitudinal gene expression data". <i>Submitted</i>.  <br /><br /></li>
