@@ -156,7 +156,7 @@ layout: landing
 			Email: jiehuan DOT sun AT yale DOT edu</p>
 		</header>
 		<ul class="actions">
-			<li><a target="_blank" href="/assets/Jiehuan-cv-updated.pdf" class="button special">Curriculum Vitae</a></li>
+			<li><a target="_blank" href="/assets/CV Jiehuan Sun.pdf" class="button special">Curriculum Vitae</a></li>
 		</ul>
 	</div>
 </section>
