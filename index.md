@@ -23,9 +23,11 @@ layout: landing
 			My research interests are to develop statistical methods for biomarker discovery, risk prediction, and subgroup identification in longitudinal genomics studies with the primary goal to better understand the disease and translate genomics data into clinical applications for improved prevention strategies, diagnostic tools, and/or treatment protocols. </p>
 			<h4>Education</h4>
 			<br />
+			<ol align="left" reversed="true">
 			<li> <br>2012-now Ph.D. in Biostatistics, Yale University (Expected Graduation: May 2017)  <br /><br /></li>
 			<li> 2010-2012 ScM. in Biostatistics, Johns Hopkins Bloomberg School of Public Health  <br /><br /></li>
 			<li> 2006-2010 B.E. in Bioinformatics, Huazhong University of Science and Technology  <br /><br /></li>
+			</ol>
 			<h4>Selected Honors and Awards</h4>
 			<br />
 			<p> Conference Travel Fellowship Award, Yale Graduate Student Assembly, 2016 <br />
