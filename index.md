@@ -23,14 +23,14 @@ layout: landing
 			My research interests are to develop statistical methods for biomarker discovery, risk prediction, and subgroup identification in longitudinal genomics studies with the primary goal to better understand the disease and translate genomics data into clinical applications for improved prevention strategies, diagnostic tools, and/or treatment protocols. </p>
 			<h4>Education</h4>
 			<br />
-			<li> 2012-present Ph.D. in Biostatistics, Yale University (Expected Graduation: May 2017)  <br /><br /></li>
-			<li> 2010-2012 ScM. in Biostatistics, Johns Hopkins Bloomberg School of Public Health  <br /><br /></li>
-			<li> 2006-2010 B.E. in Bioinformatics, Huazhong University of Science and Technology  <br /><br /></li>
+			<li> 2012-present Ph.D. in Biostatistics, Yale University (Expected Graduation: May 2017) <br /></li>
+			<li> 2010-2012 ScM. in Biostatistics, Johns Hopkins Bloomberg School of Public Health  <br /></li>
+			<li> 2006-2010 B.E. in Bioinformatics, Huazhong University of Science and Technology <br /></li>
 			<h4>Selected Honors and Awards</h4>
 			<br />
-			<li> Conference Travel Fellowship Award, Yale Graduate Student Assembly, 2016 <br /><br /></li>
-			<li> Top 10 candidates nominated by Yale University for HHMI International Student Research Fellowships, 2015 <br /><br /></li>
-			<li> Kocherlakota Award from the Department of Biostatistics at Johns Hopkins Bloomberg School of Public Health, 2011 <br /><br /></li>
+			<li> Conference Travel Fellowship Award, Yale Graduate Student Assembly, 2016 <br /></li>
+			<li> Top 10 candidates nominated by Yale University for HHMI International Student Research Fellowships, 2015 <br /></li>
+			<li> Kocherlakota Award from the Department of Biostatistics at Johns Hopkins Bloomberg School of Public Health, 2011 <br /></li>
 
 		</header>
 		<!-- <ul class="icons major">
@@ -85,16 +85,17 @@ layout: landing
         <ol align="left" reversed="true">
 
 
-<li> tttttt <br /><br /></li>
-<li> Molei Liu, <b>Jiehuan Sun</b>, Jose D. Herazo-Maya, Naftali Kaminski, and Hongyu Zhao. "Joint models for time-to-event data and longitudinal biomarkers of high dimension". <i>Manuscript</i>.  <br /><br /></li>
-<li> <b>Jiehuan Sun</b>, Jose D. Herazo-Maya, Xiu Huang, Naftali Kaminski, and Hongyu Zhao. "Distance-correlation based gene set analysis in longitudinal studies". <i>Submitted</i>.  <br /><br /></li>
-<li> <b>Jiehuan Sun</b>, Jose D. Herazo-Maya, Naftali Kaminski, Hongyu Zhao, and Joshua L. Warren. "A dirichlet process mixture model for clustering longitudinal gene expression data". <i>Submitted</i>.  <br /><br /></li>
-<li> <b>Jiehuan Sun</b>, Joshua L. Warren, and Hongyu Zhao. "A Bayesian semiparametric factor analysis model for subtype identification". <i>Submitted</i>.  <br /><br /></li>
-<li> Qiongshi Lu, Chentian Jin, <b>Jiehuan Sun</b>, Russell Bowler, Katerina Kechris, Naftali Kaminski, and Hongyu Zhao. "Post-GWAS Prioritization Through Data Integration Provides Novel Insights on Chronic Obstructive Pulmonary Disease." <i>Statistics in Biosciences</i> (2016): 1-17. [<a target="_blank" href="http://link.springer.com/article/10.1007/s12561-016-9151-2">Link</a>]<br /><br /></li>
-<li> Qiongshi Lu, Yiming Hu, <b>Jiehuan Sun</b>, Yuwei Cheng, Kei-Hoi Cheung, and Hongyu Zhao. ”A Statistical Framework to Predict Functional Non-Coding Regions in the Human Genome Through Integrated Analysis of Diverse Types of Annotation Data.” <i>Scientific reports</i> 5 (2015). [<a target="_blank" href="http://www.nature.com/articles/srep10576">Link</a>] <br /><br /></li>
+<li> <b>Jiehuan Sun</b>, Tianqi Liu, Jose D. Herazo-Maya, Kuang-Yao Lee, Naftali Kaminski, and Hongyu Zhao. "Sure Independence Feature Screening for Longitudinal Biomarkers and A Survival Outcome." <i>Manuscript</i>. <br /><br /></li>
+<li> Molei Liu, <b>Jiehuan Sun</b>, Jose D. Herazo-Maya, Naftali Kaminski, and Hongyu Zhao. "Distance-correlation based gene set analysis in longitudinal studies." <i>Manuscript</i>.  <br /><br /></li>
+<li> Jose D. Herazo-Maya, <b>Jiehuan Sun</b>, Philip Molyneaux, Julian Villalba-Nunez, Argyrios Tzouvelekis, Qin Li, Heather Lynn, Brenda M. Juan-Guardela, Xiting Yan, George Michel, Nachelle Aurelien, Kathleen O. Lindell, Melinda J. Klesen, Yingze Zhang, Hongyu Zhao, Joe GN Garcia, Imre Noth, Antje Prasse, Ziv Bar-Joseph, Kevin F. Gibson, Erica Herzog, Ivan O. Rosas, Toby Maher, and Naftali Kaminski. "A 52-gene signature in peripheral blood identifies a genomic profile associated with increased risk of mortality and poor disease outcomes in Idiopathic Pulmonary Fibrosis." <i>Submitted</i>.  <br /><br /></li>
+<li> <b>Jiehuan Sun</b>, Jose D. Herazo-Maya, Xiu Huang, Naftali Kaminski, and Hongyu Zhao. "Distance-correlation based gene set analysis in longitudinal studies." <i>Submitted</i>.  <br /><br /></li>
+<li> <b>Jiehuan Sun</b>, Jose D. Herazo-Maya, Naftali Kaminski, Hongyu Zhao, and Joshua L. Warren. "A dirichlet process mixture model for clustering longitudinal gene expression data." <i>Submitted</i>.  <br /><br /></li>
+<li> <b>Jiehuan Sun</b>, Joshua L. Warren, and Hongyu Zhao. "A Bayesian semiparametric factor analysis model for subtype identification." <i>Submitted</i>.  <br /><br /></li>
+<li> Qiongshi Lu, Chentian Jin, <b>Jiehuan Sun</b>, Russell Bowler, Katerina Kechris, Naftali Kaminski, and Hongyu Zhao. "Post-GWAS Prioritization Through Data Integration Provides Novel Insights on Chronic Obstructive Pulmonary Disease." <i>Statistics in Biosciences</i>, in press. [<a target="_blank" href="http://link.springer.com/article/10.1007/s12561-016-9151-2">Link</a>]<br /><br /></li>
+<li> Qiongshi Lu, Yiming Hu, <b>Jiehuan Sun</b>, Yuwei Cheng, Kei-Hoi Cheung, and Hongyu Zhao. ”A Statistical Framework to Predict Functional Non-Coding Regions in the Human Genome Through Integrated Analysis of Diverse Types of Annotation Data.” <i>Scientific reports</i> no. 5 (2015): 10576 . [<a target="_blank" href="http://www.nature.com/articles/srep10576">Link</a>] <br /><br /></li>
 <li> <b>Jiehuan Sun</b> and Hongyu Zhao. ”The application of sparse estimation of covariance matrix to quadratic discriminant analysis.” <i>BMC bioinformatics</i> 16.1 (2015): 48. [<a target="_blank" href="http://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-014-0443-6">Link</a>]<br /><br /></li>
 <li> <b>Jiehuan Sun</b>, Xintao Hu, Xiu Huang, Yang Liu, Kaiming Li, Xiang Li, Junwei Han, Lei Guo, Tianming Liu, and Jing Zhang. ”Inferring consistent functional interaction patterns from natural stimulus FMRI data.” <i>NeuroImage</i> 61, no. 4 (2012): 987-999. [<a target="_blank" href="http://www.sciencedirect.com/science/article/pii/S1053811912002868">Link</a>]<br /><br /></li>
-<li> Jian Yu, Xiaobin Xing, Lingyao Zeng, <b>Jiehuan Sun</b>, Wei Li, Han Sun, Ying He et al. ”SyStem-Cell: a database populated with multiple levels of experimental data from stem cell differentiation research.” <i>PloS one</i> 7, no. 7 (2012): e35230. [<a target="_blank" href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0035230">Link</a>]<br /><br /></li>
+<li> Jian Yu, Xiaobin Xing, Lingyao Zeng, <b>Jiehuan Sun</b>, Wei Li, Han Sun, Ying He Jing Li, Guoqing Zhang, Chuan Wang, Yixue Li, and Lu Xie. ”SyStem-Cell: a database populated with multiple levels of experimental data from stem cell differentiation research.” <i>PloS one</i> 7, no. 7 (2012): e35230. [<a target="_blank" href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0035230">Link</a>]<br /><br /></li>
 
 
 				</ol>
@@ -125,18 +126,17 @@ layout: landing
 		<br />
 		<h4>Presentations</h4>
 		<ul align="left">
-		<li>"Discovery of Novel Loci Associated with COPD by Pooling Information from Related Clinical Feature and Functional Annotation" <br /> <i>ENAR Spring Meeting</i>, Mar. 6-9, 2016. </li>
-		<li>“Discovery of Novel Loci Associated with COPD by Pooling Information from Case-control status, Related Clinical Feature, and Functional Annotation” <br /><i>Statistical and Computational Challeges in Omics Data Integration workshop - SAMSI</i>, Feb. 16-17, 2015.</li>
+         <li> "A Dirichlet Process Mixture Model for Clustering Longitudinal Gene Expression Data" <br /> <i>Joint Statistical Meetings (JSM)</i>, July 30 - August 4, 2016. </li>
+		<li> <b>(Invited)</b> "Discovery of Novel Loci Associated with COPD by Pooling Information from Related Clinical Feature and Functional Annotation" <br /> <i>Eastern North American Region (ENAR) Spring Meeting</i>, March 6-9, 2016. </li>
 		<li>“Discovery of Novel Loci Associated with COPD by Pooling Information from Related Clinical Feature and Functional Annotation”<br /> <i>Bioinformatics Transition Workshop - SAMSI</i>, May 11-13, 2015.</li>
 		<li>“The application of sparse estimation of covariance matrix to quadratic discriminant analysis”<br /> <i>The 29th New England Statistics Symposium</i>, April 24-25, 2015.</li>
+        <li>“Discovery of Novel Loci Associated with COPD by Pooling Information from Case-control status, Related Clinical Feature, and Functional Annotation” <br /><i>Statistical and Computational Challeges in Omics Data Integration workshop - SAMSI</i>, February 16-17, 2015.</li>
 
 		</ul>
 		<h4>Posters and Workshops</h4>
 		<ul align="left">
-		<li><i>The 29th New England Statistics Symposium</i>, April 24-25, 2015. </li>
-		<li><i>Bioinformatics Transition Workshop - SAMSI</i>, May 11-13, 2015. </li>
-		<li><i>Statistical and Computational Challeges in Omics Data Integration workshop - SAMSI</i>, Feb. 16-17, 2015.</li>
-		<li><i>2014 Rutgers Statistics Symposium Statistics and the Century of Data</i>, May 2, 2014.</li>
+		<li><i>The 30th New England Statistics Symposium</i>, April 21-22, 2016. </li>
+        <li><i>2014 Rutgers Statistics Symposium Statistics and the Century of Data</i>, May 2, 2014.</li>
 		<li><i>Statistical Methods for Very Large Datasets Conference</i>, June 1-3, 2011.</li>
 		<li><i>The 9th China-Japan-Korea Bioinformatics Training Course and Bioinformatics Symposium</i>, April 20-23, 2010. </li>
 
