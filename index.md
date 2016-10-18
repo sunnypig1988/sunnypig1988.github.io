@@ -86,7 +86,7 @@ layout: landing
         <ol align="left" reversed="true">
 
 
-<li> <b>Jiehuan Sun</b>, Tianqi Liu, Jose D. Herazo-Maya, Kuang-Yao Lee, Naftali Kaminski, and Hongyu Zhao. "Sure Independence Feature Screening for Longitudinal Biomarkers and A Survival Outcome." <i>Manuscript</i>. <br /><br /></li>
+<li> <strong>Jiehuan Sun</strong>, Tianqi Liu, Jose D. Herazo-Maya, Kuang-Yao Lee, Naftali Kaminski, and Hongyu Zhao. "Sure Independence Feature Screening for Longitudinal Biomarkers and A Survival Outcome." <i>Manuscript</i>. <br /><br /></li>
 <li> Molei Liu, <b>Jiehuan Sun</b>, Jose D. Herazo-Maya, Naftali Kaminski, and Hongyu Zhao. "Distance-correlation based gene set analysis in longitudinal studies." <i>Manuscript</i>.  <br /><br /></li>
 <li> Jose D. Herazo-Maya, <b>Jiehuan Sun</b>, Philip Molyneaux, Julian Villalba-Nunez, Argyrios Tzouvelekis, Qin Li, Heather Lynn, Brenda M. Juan-Guardela, Xiting Yan, George Michel, Nachelle Aurelien, Kathleen O. Lindell, Melinda J. Klesen, Yingze Zhang, Hongyu Zhao, Joe GN Garcia, Imre Noth, Antje Prasse, Ziv Bar-Joseph, Kevin F. Gibson, Erica Herzog, Ivan O. Rosas, Toby Maher, and Naftali Kaminski. "A 52-gene signature in peripheral blood identifies a genomic profile associated with increased risk of mortality and poor disease outcomes in Idiopathic Pulmonary Fibrosis." <i>Submitted</i>.  <br /><br /></li>
 <li> <b>Jiehuan Sun</b>, Jose D. Herazo-Maya, Xiu Huang, Naftali Kaminski, and Hongyu Zhao. "Distance-correlation based gene set analysis in longitudinal studies." <i>Submitted</i>.  <br /><br /></li>
