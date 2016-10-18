@@ -20,8 +20,7 @@ layout: landing
 			<h3>Personal Information</h3>
 			<p>I am a 5th-year PhD student at <a href="https://publichealth.yale.edu/biostat/">Yale Biostatistics Department</a>.
 			My advisor is <a href="http://zhaocenter.org">Dr. Hongyu Zhao</a>.
-			My research lies in applying longitudinal data analysis
-			in the Bayesian framework to high dimensional gene expression data. </p>
+			My research interests are to develop statistical methods for biomarker discovery, risk prediction, and subgroup identification in longitudinal genomics studies with the primary goal to better understand the disease and translate genomics data into clinical applications for improved prevention strategies, diagnostic tools, and/or treatment protocols. </p>
 			<h4>Education</h4>
 			<br />
 			<p align="center">2012-2017 Ph.D. in Biostatistics, Yale University (Yale)<br />
