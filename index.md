@@ -85,7 +85,7 @@ layout: landing
         <h2>Publication and Software</h2>
         <ol align="left" reversed="true">
 
-<p><strong>*: Co-author</strong></p>
+<p><strong>*: Co-first author</strong></p>
 
 <li> <strong>Jiehuan Sun</strong>, Tianqi Liu, Jose D. Herazo-Maya, Kuang-Yao Lee, Naftali Kaminski, and Hongyu Zhao. "Sure Independence Feature Screening for Longitudinal Biomarkers and A Survival Outcome." <i>Manuscript</i>. <br /><br /></li>
 <li> Molei Liu*, <strong>Jiehuan Sun*</strong>, Jose D. Herazo-Maya, Naftali Kaminski, and Hongyu Zhao. "Distance-correlation based gene set analysis in longitudinal studies." <i>Manuscript</i>.  <br /><br /></li>
