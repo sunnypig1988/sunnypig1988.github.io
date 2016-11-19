@@ -160,27 +160,27 @@ for time-to-event data and longitudinal biomarkers of high dimension. " <i>Manus
 			<h2>Contact</h2>
 			<p>Address: 60 College Street, New Haven CT 06520 <br />
 			Email: jiehuan DOT sun AT yale DOT edu</p>
-		  <ul class="icons">
-			{% for socloc in site.social %}
-			{% if socloc[1] %}
-			{% if socloc[0] == 'email' %}
-			<li><a target="_blank" href="{{ socloc[1] }}" class="icon fa-envelope-o"
-				   ><span class="label">E-mail</span></a></li>
-			{% else %}
-			{% if socloc[0] == 'google-scholar' %}
-			<li><a target="_blank" href="{{ socloc[1] }}" class="ai ai-google-scholar-square ai-1.1x"
-				   ><span class="label"></span></a></li>
-			{% else %}
-			<li><a target="_blank" href="{{ socloc[1] }}" class="icon fa-{{ socloc[0] }}"
-				   ><span class="label">{{ socloc[0] }}</span></a></li>
-			{% endif %}
-			{% endif %}
-			{% endif %}
-			{% endfor %}
-		  </ul>
 		</header>
 		<ul class="actions">
 			<li><a target="_blank" href="/assets/CV Jiehuan Sun.pdf" class="button special">Curriculum Vitae</a></li>
 		</ul>
 	</div>
+  <ul class="icons">
+	{% for socloc in site.social %}
+	{% if socloc[1] %}
+	{% if socloc[0] == 'email' %}
+	<li><a target="_blank" href="{{ socloc[1] }}" class="icon fa-envelope-o"
+		   ><span class="label">E-mail</span></a></li>
+	{% else %}
+	{% if socloc[0] == 'google-scholar' %}
+	<li><a target="_blank" href="{{ socloc[1] }}" class="ai ai-google-scholar-square ai-1.1x"
+		   ><span class="label"></span></a></li>
+	{% else %}
+	<li><a target="_blank" href="{{ socloc[1] }}" class="icon fa-{{ socloc[0] }}"
+		   ><span class="label">{{ socloc[0] }}</span></a></li>
+	{% endif %}
+	{% endif %}
+	{% endif %}
+	{% endfor %}
+  </ul>
 </section>
