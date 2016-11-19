@@ -127,6 +127,7 @@ for time-to-event data and longitudinal biomarkers of high dimension. " <i>Manus
 	<header class="major">
 		<h2>Conferences</h2>
 		<br />
+		<br />
 		<h4>Presentations</h4>
 		<ul align="left">
          <li> "A Dirichlet Process Mixture Model for Clustering Longitudinal Gene Expression Data", <i>Joint Statistical Meetings (JSM)</i>, July 30 - August 4, 2016. </li>
