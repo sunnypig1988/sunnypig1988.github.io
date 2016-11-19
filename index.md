@@ -126,7 +126,7 @@ for time-to-event data and longitudinal biomarkers of high dimension. " <i>Manus
   <div class="inner">
 	<header class="major">
 		<h2>Conferences</h2>
-		<br />
+		<p> </p>
 		<br />
 		<h4>Presentations</h4>
 		<ul align="left">
