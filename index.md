@@ -110,7 +110,7 @@ for time-to-event data and longitudinal biomarkers of high dimension. " <i>Manus
         </li>
         <li class="icon fa-heart-o">
           <h3>dcGSA</h3>
-          <p>R package to perform distance-correlation based Gene Set Analysis (dcGSA) for longitudinal gene expression profiles. The dcGSA package is useful to assess the associations between gene sets and outcomes, considering both expression profiles and clinical outcomes' longitudinal nature. [<a target="_blank" href="https://www.bioconductor.org/packages/release/bioc/html/dcGSA.html"><b>Bioconductor</b></a>]</p>
+          <p>R package to perform distance-correlation based Gene Set Analysis (dcGSA) for longitudinal gene expression profiles. The dcGSA package is useful to assess the associations between gene sets and outcomes, considering both expression profiles and clinical outcomes' longitudinal nature. [<a target="_blank" href="https://bioconductor.org/packages/devel/bioc/html/dcGSA.html"><b>Bioconductor</b></a>]</p>
         </li>
         <!-- <li class="icon fa-flag-o">
           <h3>GENOCANYON</h3>
